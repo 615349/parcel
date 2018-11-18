@@ -1,0 +1,8 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benli615349/parcel.git",
+  "author": "Ben Li <ben.li@qantas.com.au>",
+  "license": "MIT"
+}
